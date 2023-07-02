@@ -1,0 +1,20 @@
+#outerTable {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 2px solid black;
+  padding: 6px;
+  text-align: center;
+}
+#UET {
+  border-bottom-width: 8px;
+}
+main {
+  width: fit-content;
+  margin: 0 auto;
+}
+.gray_bg_TH {
+  background-color: #999999;
+}
